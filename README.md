@@ -5,9 +5,8 @@
   
 ![Screenshot (2)](https://user-images.githubusercontent.com/72791245/96339873-7570ee80-10c1-11eb-9dbf-10d5845d5f73.png)
   - Kemudian, isilah data & email kalian dengan benar.
-  
-![Screenshot (2)](https://user-images.githubusercontent.com/72907098/96349470-c8688880-1064-11eb-88d3-9f4f2c3c78b8.png)
- 
+  ![Screenshot (1)](https://user-images.githubusercontent.com/72907098/96349969-df5caa00-1067-11eb-8105-b42cbd42efb1.png)
+
   - Setelah itu lakukanlah verifikasi gambar, dan tekan pada bagian *'create account'*.
   
 ![Screenshot (3)](https://user-images.githubusercontent.com/72907098/96349482-d5857780-1064-11eb-9e5f-8777f622cbf5.png)

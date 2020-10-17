@@ -5,11 +5,14 @@
   
 ![Screenshot (2)](https://user-images.githubusercontent.com/72791245/96339873-7570ee80-10c1-11eb-9dbf-10d5845d5f73.png)
   - Kemudian, isilah data & email kalian dengan benar.
+  
+![Screenshot (2)](https://user-images.githubusercontent.com/72907098/96349470-c8688880-1064-11eb-88d3-9f4f2c3c78b8.png)
  
   - Setelah itu lakukanlah verifikasi gambar, dan tekan pada bagian *'create account'*.
   
-![Screenshot (13)](https://user-images.githubusercontent.com/72791245/96339906-aea95e80-10c1-11eb-8ecb-097af0c7dfee.png)
-  - Silahkan mengecek email yang sama dengan yang digunakan pada saat mendaftar tadi untuk melakukan verifikasi.
+![Screenshot (3)](https://user-images.githubusercontent.com/72907098/96349482-d5857780-1064-11eb-9e5f-8777f622cbf5.png)
+
+ - Silahkan mengecek email yang sama dengan yang digunakan pada saat mendaftar tadi untuk melakukan verifikasi.
 ![step 4](https://user-images.githubusercontent.com/72791245/96339911-b36e1280-10c1-11eb-8f30-2b1b584d6bb8.jpg)
   - Setelah terdapat notif dari Github pada email kalian, segera lakukanlah verifikasi sebelum terjadi error (kadaluarsa).
 ![step 5](https://user-images.githubusercontent.com/72791245/96339913-b9fc8a00-10c1-11eb-9027-7a51a50842df.jpg)
@@ -18,17 +21,16 @@ SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
 ### CARA MEMBUAT REPOSITORY PADA GITHUB
   - Bukalah profile kalian, kemudian pilih dibagian *start a project*, atau bisa juga dengan menekan lambang (+) pada bagian pojok kanan atas.
   - Setelahnya kamu dapat pergi pada tulisan *'New Repository'*
-![Screenshot (11)](https://user-images.githubusercontent.com/72791245/96346837-1f537980-10c8-11eb-89b2-c9e8baf5ac2f.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/72907098/96349511-12516e80-1065-11eb-997b-aa5333f0a5ea.png)
 
-
-  - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik. Lalu Ceklis tulisan Add ReadMe tersebut lalu klik tulisan Create Repository
+- Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik. Lalu Ceklis tulisan Add ReadMe tersebut lalu klik tulisan Create Repository
   - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik. Lalu Ceklis tulisan Add a README file tersebut lalu klik tulisan Create Repository
 
-![Screenshot (12)](https://user-images.githubusercontent.com/72791245/96346840-24182d80-10c8-11eb-85ea-c2b7cadcb2fb.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/72907098/96349523-1d0c0380-1065-11eb-9b60-d7fffc0a5852.png)
 
- 
  - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini.
-![Screenshot (15)](https://user-images.githubusercontent.com/72791245/96346844-29757800-10c8-11eb-833e-d60c493e45ce.png)
+[Screenshot (5)](https://user-images.githubusercontent.com/72907098/96349623-9dcaff80-1065-11eb-82e6-db23bf63ab06.png)
+
  - Tekan pada kolom 'Commit Changes' jika kalian ingin menyimpan hasil kerja kalian ataupun setelah kalian melakukan perubahan pada lembar kerja kalian.
  
-![Screenshot (16)](https://user-images.githubusercontent.com/72791245/96347207-5dea3380-10ca-11eb-9846-7b0de61c2abc.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/72907098/96349637-a8859480-1065-11eb-9cb5-ba90d0c434de.png)

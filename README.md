@@ -28,6 +28,10 @@ SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
   - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik. Lalu Ceklis tulisan Add a README file tersebut lalu klik tulisan Create Repository
 ![Screenshot (4)](https://user-images.githubusercontent.com/72907098/96350815-70358480-106c-11eb-8154-f2962369065d.png)
 
+ - Setelah mendapat tampilan seperti gambar dibawah, berarti Repository kalian sudah berhasil dibuat. dan kalian juga bisa tekan pada tulisan 'README' yang berwarna biru untuk
+ membukanya.
+ 
+
  - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini.
 [Screenshot (5)](https://user-images.githubusercontent.com/72907098/96349623-9dcaff80-1065-11eb-82e6-db23bf63ab06.png)
 

@@ -15,18 +15,19 @@
 ![2](https://user-images.githubusercontent.com/72907098/96350507-f94bbc00-106a-11eb-871f-7cb86d5388ff.jpeg)
 
 - Setelah terdapat notif dari Github pada email kalian, segera lakukanlah verifikasi sebelum terjadi error (kadaluarsa).
-![Screenshot (3)](https://user-images.githubusercontent.com/72907098/96349482-d5857780-1064-11eb-9e5f-8777f622cbf5.png)
+![3](https://user-images.githubusercontent.com/72907098/96350606-76773100-106b-11eb-937b-cc4c4ab8fa56.jpeg)
 
 SELESAI!! SELAMAT ANDA SUDAH TERDAFTAR..
 SELANJUTNYA ADALAH LANGKAH MEMBUAT REPOSITORY..
 ### CARA MEMBUAT REPOSITORY PADA GITHUB
   - Bukalah profile kalian, kemudian pilih dibagian *start a project*, atau bisa juga dengan menekan lambang (+) pada bagian pojok kanan atas.
   - Setelahnya kamu dapat pergi pada tulisan *'New Repository'*
+![Screenshot (5)](https://user-images.githubusercontent.com/72907098/96349523-1d0c0380-1065-11eb-9b60-d7fffc0a5852.png)
 
 - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik. Lalu Ceklis tulisan Add ReadMe tersebut lalu klik tulisan Create Repository
   - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik. Lalu Ceklis tulisan Add a README file tersebut lalu klik tulisan Create Repository
 
-![Screenshot (5)](https://user-images.githubusercontent.com/72907098/96349523-1d0c0380-1065-11eb-9b60-d7fffc0a5852.png)
+
 
  - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini.
 [Screenshot (5)](https://user-images.githubusercontent.com/72907098/96349623-9dcaff80-1065-11eb-82e6-db23bf63ab06.png)

@@ -9,7 +9,7 @@
 
   - Setelah itu lakukanlah verifikasi gambar, dan tekan pada bagian *'create account'*.
   
-![Screenshot (2)](https://user-images.githubusercontent.com/72907098/96350034-3c586000-1068-11eb-994b-fdbfe9b88283.png)
+![1](https://user-images.githubusercontent.com/72907098/96350224-9d346800-1069-11eb-8880-75eedbccfd44.jpeg)
 
  - Silahkan mengecek email yang sama dengan yang digunakan pada saat mendaftar tadi untuk melakukan verifikasi.
 

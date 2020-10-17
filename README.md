@@ -12,6 +12,7 @@
 ![Screenshot (2)](https://user-images.githubusercontent.com/72907098/96350034-3c586000-1068-11eb-994b-fdbfe9b88283.png)
 
  - Silahkan mengecek email yang sama dengan yang digunakan pada saat mendaftar tadi untuk melakukan verifikasi.
+![2](https://user-images.githubusercontent.com/72907098/96350507-f94bbc00-106a-11eb-871f-7cb86d5388ff.jpeg)
 
 - Setelah terdapat notif dari Github pada email kalian, segera lakukanlah verifikasi sebelum terjadi error (kadaluarsa).
 ![Screenshot (3)](https://user-images.githubusercontent.com/72907098/96349482-d5857780-1064-11eb-9e5f-8777f622cbf5.png)
